@@ -1,0 +1,3 @@
+include ':event'
+include ':app'
+rootProject.name = "event-bus"
